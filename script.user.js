@@ -9,4 +9,9 @@
 // @downloadURL  https://github.com/TouchedByDarkness/pixelplanet-void-theme/raw/main/script.user.js
 // ==/UserScript==
 
-ssv.availableStyles.void = "https://touchedbydarkness.github.io/resources/pixelplanetVoidTheme.css";
+(async () => {
+  const script = document.createElement("script");
+  const res = await fetch("https://raw.githubusercontent.com/TouchedByDarkness/pixelplanet-void-theme/main/script.js");
+  script.innerHTML = await res.text();
+  document.body.appendChild(script);
+})();
