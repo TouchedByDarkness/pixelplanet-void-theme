@@ -9,4 +9,4 @@
 // @downloadURL  https://github.com/TouchedByDarkness/pixelplanet-void-theme/raw/main/script.user.js
 // ==/UserScript==
 
-ssv.availableStyles.void = "https://raw.githubusercontent.com/TouchedByDarkness/pixelplanet-void-theme/main/style.css";
+ssv.availableStyles.void = "https://touchedbydarkness.github.io/resources/pixelplanetVoidTheme.css";
