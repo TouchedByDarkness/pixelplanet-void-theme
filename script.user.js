@@ -5,8 +5,8 @@
 // @author       Darkness
 // @match        https://pixelplanet.fun/*
 // @match        https://fuckyouarkeros.fun/*
-// @updateURL    https://raw.githubusercontent.com/TouchedByDarkness/pixelplanet-void-style/main/script.user.js
-// @downloadURL  https://raw.githubusercontent.com/TouchedByDarkness/pixelplanet-void-style/main/script.user.js
+// @updateURL    https://github.com/TouchedByDarkness/pixelplanet-void-theme/raw/main/script.user.js
+// @downloadURL  https://github.com/TouchedByDarkness/pixelplanet-void-theme/raw/main/script.user.js
 // ==/UserScript==
 
 ssv.availableStyles.void = "https://raw.githubusercontent.com/TouchedByDarkness/pixelplanet-void-style/main/style.css";
